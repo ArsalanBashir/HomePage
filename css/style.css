@@ -8,6 +8,22 @@
 	display: inline;
 }
 
+h1{
+	font-size: 28px;
+	font-family: 'Adobe Garamond Pro', serif;
+	position: absolute;
+	padding-left: 3px;
+}
+
+#date{
+	color: #FF9393;
+	font-family: 'Adobe Garamond Pro', serif;
+	font-size: 20px;
+	position: relative;
+	padding-top: 32px;
+	padding-bottom: 60px;
+}
+
 #menu{
 	display: none;
 	font-family: 'Adobe Garamond Pro', serif;
@@ -18,6 +34,11 @@
 	text-align: center;
 	font-family: 'Adobe Garamond Pro', serif;
 	color: #919191;
+}
+
+#content{
+	max-width: 800px;
+	margin: 0 auto;
 }
 
 #menu li a{
