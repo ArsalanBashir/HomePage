@@ -1,0 +1,62 @@
+#seal{
+	text-align: center;
+	font-family: 'Proxima Nova', sans-serif;
+	color: #474747;
+}
+
+#menu li{
+	display: inline;
+}
+
+#menu{
+	display: none;
+	font-family: 'Adobe Garamond Pro', serif;
+	text-align: center;
+}
+
+#crest{
+	text-align: center;
+	font-family: 'Adobe Garamond Pro', serif;
+	color: #919191;
+}
+
+#menu li a{
+	text-decoration: none;
+	color: #919191;
+}
+
+#menu li a:hover{
+	color: #999;
+}
+
+#top{
+	padding-bottom: 75px;
+}
+
+p a{
+	text-decoration: none;
+	color: #E46254;
+}
+
+#cntr{
+	margin: 0 auto;
+	text-align: center;
+}
+
+p a:hover{
+	color: #383838;
+}
+
+
+
+.foot li{
+	font-size: 20px;
+	font-family: 'Adobe Garamond Pro', serif;
+	display: inline;
+}
+
+.foot li a{
+	text-decoration: none;
+	color: #919191;
+}
+

@@ -1,0 +1,88 @@
+/*
+	Tessellate 1.0 by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body,input,textarea,select
+	{
+		font-size: 13pt;
+		line-height: 1.65em;
+	}
+
+	/* Feature Icon */
+
+		.feature-icon
+		{
+			margin-bottom: 2em;
+		}
+
+	#seal{
+		font-size: 37px;
+		padding: 90px 20px 30px 20px;
+	}
+
+	#crest{
+		font-size: 23px;
+	}
+
+	#spacer{
+		padding: 0px 76px 0px 76px;
+	}
+
+	.foot{
+	padding: 90px;
+	}
+	
+	#bottomspacer{
+		padding-left: 90px;
+		padding-right: 90px;
+	}
+
+	#menu{
+		font-size: 23px;
+	}
+
+	#content{
+		width: 100%;
+		font-size: 20px;
+		line-height: 40px;
+		text-align: justify;
+		padding: 0px 10px 30px 10px;
+	}
+
+	p{
+		max-width: 900px;
+		margin: 0 auto;
+	}
+
+/*********************************************************************************/
+/* Header                                                                        */
+/*********************************************************************************/
+
+	#header
+	{
+		padding: 12em 0 12em 0;
+	}
+
+/*********************************************************************************/
+/* Main Sections                                                                 */
+/*********************************************************************************/
+
+	.main
+	{
+	}
+	
+		.main > header
+		{
+			padding: 4em 0 4em 0;
+		}
+		
+		.main > .content
+		{
+			padding: 4em 0 4em 0;
+		}
