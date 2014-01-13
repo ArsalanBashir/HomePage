@@ -78,6 +78,14 @@ p a{
 	color: #E46254;
 }
 
+.code{
+
+	border-radius: 4px;
+	background: #282626;
+	border: 1px solid #000000;
+
+}
+
 #cntr{
 	margin: 0 auto;
 	text-align: center;
