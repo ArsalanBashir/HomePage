@@ -17,8 +17,9 @@
 		font-size: 20px;
 	}
 
-	#content{
-		width: 100%;
+	#MainStuff{
+		max-width: 632px;
+		margin: 0 auto;
 		font-size: 20px;
 		line-height: 40px;
 		text-align: justify;
@@ -33,11 +34,7 @@
 		padding-left: 70px;
 		padding-right: 70px;
 	}
-	
-	p{
-		max-width: 632px;
-		margin: 0 auto;
-	}
+
 
 
 

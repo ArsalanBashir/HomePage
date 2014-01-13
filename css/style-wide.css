@@ -1,46 +1,34 @@
+#seal{
+	font-size: 37px;
+	padding: 110px 20px 30px 20px;
+}
 
-	body,input,textarea,select
-	{
-		font-size: 15pt;
-		line-height: 1.75em;
-	}
+#crest{
+	font-size: 23px;
+}
 
+#spacer{
+	padding: 0px 76px 0px 76px;
+}
 
-	#seal{
-		font-size: 37px;
-		padding: 110px 20px 30px 20px;
-	}
+#menu{
+	font-size: 23px;
+}
 
-	#crest{
-		font-size: 23px;
-	}
+#MainStuff{
+	max-width: 800px;
+	margin: 0 auto;
+	font-size: 20px;
+	line-height: 40px;
+	text-align: justify;
+	padding: 0px 10px 30px 10px;
+}
 
-	#spacer{
-		padding: 0px 76px 0px 76px;
-	}
-
-	#menu{
-		font-size: 23px;
-	}
-
-	#content{
-		width: 100%;
-		font-size: 20px;
-		line-height: 40px;
-		text-align: justify;
-		padding: 0px 10px 30px 10px;
-	}
-
-	.foot{
+.foot{
 	padding: 90px;
-	}
+}
 	
-	#bottomspacer{
-		padding-left: 90px;
-		padding-right: 90px;
-	}
-
-	p{
-		max-width: 900px;
-		margin: 0 auto;
-	}
+#bottomspacer{
+	padding-left: 90px;
+	padding-right: 90px;
+}
