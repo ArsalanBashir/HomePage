@@ -8,11 +8,30 @@
 	display: inline;
 }
 
+em{
+	font-style: italic;
+}
+
+strong{
+	font-style: bold;
+}
+
 h1{
 	font-size: 28px;
 	font-family: 'Adobe Garamond Pro', serif;
 	position: absolute;
 	padding-left: 3px;
+}
+
+blockquote{
+	padding-left: 40px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+	margin-left: 50px;
+	color: #575757;
+	font-size: 20px;
+	font-style: italic;
+	border-left: #FF9393 4px solid;
 }
 
 #date{
