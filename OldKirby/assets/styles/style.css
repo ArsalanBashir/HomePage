@@ -1,0 +1,168 @@
+h1{
+	font-family: 'Proxima Nova', sans-serif;
+	font-size: 28px;
+	padding: 7px;
+	font-weight: 600;
+}
+
+
+
+h1 a{
+	text-decoration: none;
+	color: #222222;
+}
+
+.dtime{
+	display: inline;
+}
+
+h2{
+	font-family: 'Adobe Garamond Pro', serif;
+	font-size: 18px;
+	color: #696969;
+	opacity: 20%;
+	font-weight: lighter;
+}
+
+h3{
+	font-family: 'Adobe Garamond Pro', Georgia, serif;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 31px;
+	letter-spacing: 1px;
+	color: #222222;
+	font-weight: lighter;
+	text-align: left;
+	max-width: 750px;
+	margin: 15px;
+	padding-top: 15px;
+}
+
+h3 a{
+	text-decoration: none;
+	color: #222222;
+}
+
+h3 a:hover{
+	color: #eb7966;
+}
+#menu li{
+	display: inline;
+	font-family: 'Adobe Garamond Pro', serif;
+	font-size: 18px;
+	color: #484848;
+	opacity: 100%;
+	font-weight: 400;
+
+}
+
+#menu{
+	display: none;
+}
+#menu li a{
+	text-decoration: none;
+	color: #696969;
+}
+
+#menu li a:hover{
+	color: #484848;
+}
+
+.home{
+	padding-right: 40px;
+}
+
+.back{
+	font-family: 'Proxima Nova', sans-serif;
+	letter-spacing: 1;
+	margin-top: 50px;
+	opacity: 0.3;
+
+}
+
+.back a{
+	text-decoration: none;
+	color: #222222;
+}
+
+.back:hover{
+	opacity: 1.0;
+}
+
+.work{
+	padding-left: 40px;
+}
+
+.blog{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+p{
+	font-family: 'Adobe Garamond Pro', Georgia, serif;
+	color: #484848;
+	max-width: 750px;
+	text-align: justify;
+	font-size: 21px;
+	line-height: 30px;
+	margin: 15px;
+	display: inherit;
+
+}
+
+.top{
+	margin-left: 60px;
+	margin-right: 60px;
+	height: 130px;
+	padding-top: 60px;
+	width: 100%;
+
+}
+
+.pagination{
+	font-family: 'EB Garamond','Adobe Garamond Pro', serif;
+	color: #484848;
+	text-transform: uppercase;
+	font-size: 12px;
+	margin-top: 60px;
+}
+
+.pagination a{
+		text-decoration: none;
+		color: #484848;
+}
+
+.readmore{
+	color: #eb7966;
+	font-weight: 300;
+	letter-spacing: 1px;
+	font-size: 19px;
+	opacity: 30%;
+}
+
+p a{
+	color: #eb7966;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #000000;
+}
+
+.nav li{
+	font-family: 'Adobe Garamond Pro', 'Georgia', serif;
+	display: inline;
+	padding: 30px;
+}
+
+.nav{
+	padding-top: 80px;
+	padding-bottom: 25px;
+	font-size: 16px;
+}
+
+.nav a{
+	text-decoration: none;
+	color: #484848;
+}
+
